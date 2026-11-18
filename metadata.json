@@ -1,0 +1,6 @@
+{
+  "name": "Personal Care Tracker",
+  "description": "Catat Rutinitas Anda. Pahami Kulit dan Rambut Anda. Catatan pribadi untuk perawatan wajah, perawatan rambut, riwayat produk, jurnal harian, dan pengamatan tren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
